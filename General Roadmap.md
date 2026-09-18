@@ -50,11 +50,8 @@ Move from fundamentals to network configuration, switching, routing, security, t
 
 Explore advanced routing, automation, SDN, cloud networking, data centers, container networking, and modern network infrastructure.
 
-<div align="center">
 
 ## 🟢 Beginner Level
-
-</div>
 
 | 📌 Topic | 📚 Resources |
 |---|---|
