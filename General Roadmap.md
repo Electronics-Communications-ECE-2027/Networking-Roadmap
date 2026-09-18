@@ -1,13 +1,13 @@
 <div align="center">
 
 # 🌐 Computer Networking Roadmap
-
+</div>
 <p>
 A structured roadmap for learning Computer Networking from fundamentals
 to advanced network infrastructure, automation, security, and modern networking.
 </p>
 
-</div>
+
 ---
 <div align="center">
 
@@ -29,33 +29,27 @@ to advanced network infrastructure, automation, security, and modern networking.
 
 </div>
 
-<div align="center">
 
 ### 🟢 Beginner Level
 **Networking Fundamentals**
 
 Build a strong foundation in networking concepts, protocols, addressing, and basic network tools.
 
-</div>
 ---
-<div align="center">
 
 ### 🟡 Intermediate Level
 **Network Engineering**
 
 Move from fundamentals to network configuration, switching, routing, security, troubleshooting, and network analysis.
 
-</div>
 
 ---
-<div align="center">
 
 ### 🔴 Advanced Level
 **Modern & Scalable Networking**
 
 Explore advanced routing, automation, SDN, cloud networking, data centers, container networking, and modern network infrastructure.
 
-</div>
 <div align="center">
 
 ## 🟢 Beginner Level
